@@ -27,10 +27,10 @@
     <properties>
 
         <!-- Adding Sonar properties for Sonar Cloud code scan -->
-        <sonar.projectKey>CertifaiAI_learn-java-the-certifai-way</sonar.projectKey>
-        <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
-        <sonar.organization>certifaiai</sonar.organization>
+        <sonar.projectKey>fariskamaludin-skymind_learn-java-the-certifai-way</sonar.projectKey>
+        <sonar.organization>fariskamaludin-skymind</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
 
     </properties>
 
