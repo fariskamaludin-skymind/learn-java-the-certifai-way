@@ -1,6 +1,6 @@
 # This code will build the Java project with Maven and execute code test with Sonar Cloud
 
-name: Build with Maven
+name: Build & Test with Sonar Cloud
 on:
   push:
     branches:
