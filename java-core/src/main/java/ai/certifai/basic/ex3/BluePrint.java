@@ -36,7 +36,7 @@ class PersonalProfile
     {
         name = myName;
         height = myHeight;
-        weight = myWeight;
+        weight = myWeight
     }
 
     /**
